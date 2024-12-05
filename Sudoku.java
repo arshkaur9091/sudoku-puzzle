@@ -110,3 +110,5 @@ public class Sudoku {
         return allBoards;
     }
 }
+// time complexity O(n^n)
+// hm n size k board k hr box m n queens bithane ka kaam kr rhe h
